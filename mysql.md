@@ -269,3 +269,7 @@ RR(可重复读Repeatable Read)
 ![image-20220321231225769](C:\Users\15444\Desktop\bj\images\image-20220321231225769.png)
 
 ![image-20220321231359786](C:\Users\15444\Desktop\bj\images\image-20220321231359786.png)
+
+#### 12 双写缓冲区作用
+
+![img](https://img-blog.csdnimg.cn/20210325132058917.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2l0X2xpaG9uZ21pbg==,size_16,color_FFFFFF,t_70)
